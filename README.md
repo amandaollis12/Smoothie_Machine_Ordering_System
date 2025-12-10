@@ -28,7 +28,7 @@ This project models a **Smoothie Machine Ordering System** using concepts from *
 ---
 
 ## Project Files  
-- **Documentation:** `documentation/smoothiemachineorderingsystem.pdf`, - contains all state descriptions and workflow for the Smoothie Machine Ordering System
+- **Documentation:** `Smoothie Machine Ordering System _ Amanda Ollis.pdf`, - contains all state descriptions and workflow for the Smoothie Machine Ordering System
 
 
 ---
