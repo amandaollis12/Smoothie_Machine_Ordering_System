@@ -18,7 +18,7 @@ This project models a **Smoothie Machine Ordering System** using concepts from *
 ---
 
 ## Features  
-- **DFA Design:** Models required ordering steps (menu → size → add-ons → confirm → finish)  
+- **DFA Design:** Models required ordering steps (size → base → add-ons → ice-level → blend)  
 - **NFA Design:** Allows multiple possible transitions and optional choices
 - **CFG Modeling** Capture heirachrical or nested choices in the ordering process
 - **Reject/Dead State:** Captures invalid customer actions  
